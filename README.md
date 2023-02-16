@@ -6,25 +6,27 @@
 5. [FAQs](#faqs)
 ### General Info
 ***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
+This is an ORM back-end application for an e-commerce site with a working Express.js API and configured to use Sequelize to interact with a MySQL database. 
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Technology name](https://example.com): Version 12.3 
-* [Technology name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* Javascript
+* jQuery
+* npm
+* mysql2
+* squelize
+* dotenv
 ## Installation
 ***
-A little intro about the installation. 
+To use this application do the following: 
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
 $ npm install
-$ npm start
+$ npm install mysql2
+$ npm install sequelize
+$ npm install dotenv
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
 ## Collaboration
 ***
 Give instructions on how to collaborate with your project.
