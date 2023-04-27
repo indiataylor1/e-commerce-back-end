@@ -8,8 +8,8 @@
 ***
 This is an ORM back-end application for an e-commerce site with a working Express.js API and configured to use Sequelize to interact with a MySQL database. 
 ### Screenshot
-Walkthrough Video >>> https://drive.google.com/file/d/1E6ZpfuQSPPfK_IzMBMlYcBoCac5qOiPH/view
-Insomnia Video >>> https://watch.screencastify.com/v/KQ758xb8aIOzwgUJhe1m
+- Walkthrough Video >>> https://drive.google.com/file/d/1E6ZpfuQSPPfK_IzMBMlYcBoCac5qOiPH/view
+- Insomnia Video >>> https://watch.screencastify.com/v/KQ758xb8aIOzwgUJhe1m
 ## Technologies
 ***
 A list of technologies used within the project:
